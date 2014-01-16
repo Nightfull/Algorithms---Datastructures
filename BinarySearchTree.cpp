@@ -1,4 +1,3 @@
-//排序二叉树
 #include<iostream>
 #include<assert.h>
 
