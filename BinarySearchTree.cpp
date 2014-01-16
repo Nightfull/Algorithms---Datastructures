@@ -1,7 +1,6 @@
 //排序二叉树
 #include<iostream>
 #include<assert.h>
-using namespace std;
 
 typedef struct _BinaryTree
 {
